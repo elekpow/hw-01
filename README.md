@@ -33,3 +33,32 @@
 ---
 
 ## Дополнительные задания (со звездочкой*)
+
+
+С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
+
+Требования к результату
+прикрепите в файл README.md скриншот уведомления в Yandex Monitoring
+
+
+ ### Выполнение задания 
+ 
+ 
+  при минималальной нагрузке  (ping ya.ru)
+
+![screen1](https://github.com/elekpow/hw-01/blob/main/warning.JPG) 
+                                                                       
+
+при большой нагрузке ( запуск установки -  apt install docker.io)  
+
+![screen1](https://github.com/elekpow/hw-01/blob/main/warning1.JPG)
+
+Полученное уведомление 1
+
+![screen1](https://github.com/elekpow/hw-01/blob/main/warn.JPG)
+
+Полученное уведомление 2
+
+![screen1](https://github.com/elekpow/hw-01/blob/main/Alarm.JPG)
+
+
